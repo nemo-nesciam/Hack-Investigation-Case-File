@@ -1,74 +1,46 @@
-# North Korean Hack Investigation Case File
+# North Korean Hack Investigation Case File - README
 
-## Case Overview
-- **Case Number**: `1:20-cv-02396`
-- **Filing Date**: `August 27, 2020`
-- **Document**: `Complaint for Forfeiture In Rem`
-- **Agencies Involved**:
-  - [[IRS-Criminal Investigations]]
-  - [[FBI]]
-  - [[Homeland Security Investigations]]
+## Document Reviewed
 
-## Actors Identified
-- [[North Korean Actors]]
-- [[U.S. Citizen IDT Victim 1]]
-- [[Chinese OTC Traders]]
-- [[Target Actor 1]]
+This repository contains a structured knowledge base derived from a legal complaint titled "UNITED STATES OF AMERICA v. 280 VIRTUAL CURRENCY ACCOUNTS". The [original document](https://www.justice.gov/usao-dc/press-release/file/1310411/download) is a complaint for the forfeiture of assets related to alleged North Korean state-sponsored cyber actors involved in the hacking of two cryptocurrency exchanges and subsequent laundering of the stolen funds.
 
-## Exchanges Involved
-- [[Exchange 3]]
-- [[Exchange 10]]
-- [[Exchange 11]]
-- [[Exchange 12]]
+## Structure and Content
 
-## Defendant Properties
-- [[Properties 25-171]] - Laundering of Stolen Funds
-- [[Properties 172-280]] - Connections to North Korea
+The information extracted from the complaint has been meticulously organized into an Obsidian vault-friendly format. This format leverages Obsidian's Markdown capabilities and its powerful graph view for knowledge management and data interconnectivity. The content is divided into specific topics, each representing a core aspect of the case as outlined in the legal document.
 
-## Currencies and Assets
-- [[ALGO Tokens]]
-- [[Bitcoin (BTC)]]
-- [[USDT]]
-- [[Ethereum (ETH)]]
+## Purpose of the Structure
 
-## Key Events
-- [[Recreation of ALGO addresses]]
-- [[Theft of ALGO tokens]]
-- [[Conversion of ALGO to BTC]]
-- [[Laundering activities]]
+The primary reason for organizing the complaint in this manner is to:
 
-## Key Dates
-- `September 26, 2019` - [[Initial Account Registration by IDT Victim 1]]
-- Post `September 26, 2019` - [[Transactions Involving Conversion and Transfer]]
+1. **Facilitate Analysis:** By breaking down the complex legal document into interconnected, digestible pieces, we enable deeper and more focused analysis of each part of the investigation.
 
-## Forfeiture Properties
-- List of virtual currency addresses and accounts associated with illegal transactions.
+2. **Enhance Organization:** The structured notes help maintain a clear hierarchy and relationships between different pieces of information, which are vital for comprehending the multifaceted nature of the case.
 
-## Connections
-- [[IP Address Tracing to North Korea]]
-- [[Chinese OTC Traders Linked to Laundering]]
+3. **Build a Knowledge Base:** This format serves as a dynamic knowledge base, allowing for incremental updates and additions as the case evolves or as new information comes to light.
 
-## Law Enforcement Action
-- [[Forfeiture of Properties]]
-- [[Legal Proceedings]]
+4. **Collaborative Investigation:** The structure is designed to support collaboration among different investigators or analysts who might be working on the case, providing a centralized and unified view of the investigation.
 
-## Attachments and Exhibits
-- Images and charts detailing the flow of stolen funds and the accounts involved.
+## Usage
 
-## Verification
-- Special Agents:
-  - [[Agent Christopher Janczewski (IRS)]]
-  - [[Agent Christopher Wong (FBI)]]
-  - [[Agent Thomas Tamsi (Homeland Security Investigations)]]
+To use this knowledge base:
 
-## Legal Claims
-- [[Violations of Title 18 U.S.C. Section 1956]]
+1. Clone or download the repository to your local machine.
+2. Open the Obsidian application and create a new vault or open an existing one.
+3. Copy the markdown files from this repository into your Obsidian vault.
+4. Use the links in the markdown files to navigate between notes and visualize the connections in the graph view.
 
-## Prayer for Relief
-- Forfeiture of the [[Defendant Properties]]
-- [[Legal Judgment]]
+## Continuous Development
 
-## Attorneys for the United States
-- [[Attorney Michael R. Sherwin]]
-- [[Assistant U.S. Attorneys Zia M. Faruqui, Jessi Camille Brooks, Christopher B. Brown]]
-- [[Trial Attorney C. Alden Pelker]]
+As the investigation progresses, new data can be added to the existing structure. The flexible nature of Markdown and Obsidian's linking system allows for the seamless integration of new information, notes, and insights.
+
+## Collaborative Features
+
+Users can contribute to the knowledge base by:
+
+- **Adding Notes:** Creating new notes for emerging details and linking them to existing content.
+- **Updating Information:** Modifying existing notes to reflect the latest developments in the case.
+- **Expanding Analysis:** Including personal analysis or insights within the notes to provide additional context or hypotheses.
+
+## Conclusion
+
+This Obsidian-based report format is a strategic approach to handling complex legal documents and investigations. It simplifies the management of intricate data sets, aids in the visualization of connections, and fosters a collaborative environment for ongoing investigative work. Whether you're working solo or as part of a team, this knowledge base is a valuable tool for building a comprehensive understanding of the case.
