@@ -1,4 +1,4 @@
-# North Korean Hack Investigation Case File - README
+# North Korean Hack Investigation Case File
 
 ## Document Reviewed
 
@@ -46,3 +46,5 @@ Users can contribute to the knowledge base by:
 This Obsidian-based report format is a strategic approach to handling complex legal documents and investigations. It simplifies the management of intricate data sets, aids in the visualization of connections, and fosters a collaborative environment for ongoing investigative work. Whether you're working solo or as part of a team, this knowledge base is a valuable tool for building a comprehensive understanding of the case.
 
 Note: For more information about how to leverage Obsidian for OSINT and Blockchain Intelligence Investigations, refer to my blog ["Unlock The Power Of Obsidian For OSINT And Blockchain Intelligence Analysis"](https://medium.com/p/a69e526e2638).
+
+![Graph representation of the outline](https://github.com/nemo-nesciam/Hack-Investigation-Case-File/blob/main/assets/US%20v.%20280%20Virtual%20Currency%20Accounts.png) Graph Representation of the Case Outline.
